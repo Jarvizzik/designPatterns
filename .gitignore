@@ -1,8 +1,8 @@
 .metadata/
-.gitignore.swp
 .idea/
 .recommenders/
-.classpath
-.project
 .settings/
 bin/
+.classpath
+.project
+.gitignore.swp
